@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-function-called-word_dictionary
+<br>
+5/5 - (2 votes)
+
+<p class="cm">Create a function called word_dictionary() to keep track of the new words and meanings you are learning. It allows you to enter new words, and a meaning for each word.When you run the program:It prints a greeting message with the name of your program, and prompts user to enter a integer from 1 to 3 for the following options:Option 1: user can see all words and meanings that have been entered so far. If user has not entered any words, print message “There’s no word in the dictionary yet”Option 2: prompt user to enter a new word, then prompt user to enter the meaning.Your program must not allow duplicate entries.Your program should store all entered words and meanings into a dictionary data structureOption 3: allows user to search for a word. If the word exists in the dictionary, then display the meaning; otherwise print message “Word not found”.Program should use loop or recursive function to keep prompt for user input, until user choose to exit. Program should provide option for user to exit, for example, enter 0, or enter “q”
